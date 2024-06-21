@@ -1,4 +1,16 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/brazilpremium.xml"
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/brazilpremium.xml"
+
+#EXTINF:-1 tvg-id="Express Anime" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfwyH1Y1Yhb2NMwk1tMx3NVk_NnoGvp9iZI8dNJrDGIBnRo4ADU3Bl_1fT&s=10.png"group-title="TVExpress | ", Express Anime
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=9.2.1-a2d0960e98a7a0629d3d5bd4a920ac8e0913c96f&app_name=web&clientDeviceType=0&clientID=c7210453-8089-45b1-b482-41db1a85134a&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=c7210453-8089-45b1-b482-41db1a85134a&deviceLat=-6.4000&deviceLon=-42.2600&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=124.0.0&marketingRegion=BR&serverSideAds=false&sessionID=94ff53ae-2f59-11ef-9bb3-5a25b665201f&sid=94ff53ae-2f59-11ef-9bb3-5a25b665201f&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjVhOTFkMGZkLTg4NjEtNDNlZS05OTRkLWMyMjc5YzIwOTU1ZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI5NGZmNTNhZS0yZjU5LTExZWYtOWJiMy01YTI1YjY2NTIwMWYiLCJjbGllbnRJUCI6IjE2OC4xOTcuMTgyLjI1MSIsImNpdHkiOiJGcmFuY2lub3BvbGlzIiwicG9zdGFsQ29kZSI6IjY0NTIwLTk1OSIsImNvdW50cnkiOiJCUiIsImRtYSI6NzYwNzUsImFjdGl2ZVJlZ2lvbiI6IkJSIiwiZGV2aWNlTGF0IjotNi40MDAwMDAwOTUzNjc0MzIsImRldmljZUxvbiI6LTQyLjI1OTk5ODMyMTUzMzIsInByZWZlcnJlZExhbmd1YWdlIjoicHQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEyNC4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuMi4xLWEyZDA5NjBlOThhN2EwNjI5ZDNkNWJkNGE5MjBhYzhlMDkxM2M5NmYiLCJjbGllbnRJRCI6ImM3MjEwNDUzLTgwODktNDViMS1iNDgyLTQxZGIxYTg1MTM0YSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0ZvcnRhbGV6YSIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6ImM3MjEwNDUzLTgwODktNDViMS1iNDgyLTQxZGIxYTg1MTM0YSIsImZ3VmNJRDJDb3BwYSI6ImM3MjEwNDUzLTgwODktNDViMS1iNDgyLTQxZGIxYTg1MTM0YSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiYzcyMTA0NTMtODA4OS00NWIxLWI0ODItNDFkYjFhODUxMzRhIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSwxMDAwMyJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDEifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOll6Y3lNVEEwTlRNdE9EQTRPUzAwTldJeExXSTBPREl0TkRGa1lqRmhPRFV4TXpSaCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3MTkwMTExMjcsImlhdCI6MTcxODkyNDcyNywianRpIjoiMjQxODUzYjgtZTJhZi00OTk3LTgwYmEtYjhlOWQxY2QyMmYxIn0.a42qdyeiDqzN-mSm9YXonDvY1Kr7HyRiTwun_0gU9Gg&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQE1GTaB0cgUVBb6tA-MZ8Ipbus5adG7fTbG4IsBqT8NBpttOJ1fG8ndVvj8JDX43au53w15o4NwAObyr3yewmn9VwdYePxZYbPRSsSKjVDU-eJvNoxfdMZVJVLZmItImEbLQ0-xKbw-zZMjvgXPDotPMLcDZmJpQuff9EsxpW8iMCG9VQ4Iw-9Jb89FeKXl0dmnMeqplinRyEHGzoFkGNUVVxc7huA2ECYj3T-ZXeQ0V1P5chzlYmLxXET-qXRjEVHib1igJqL7xegLiKb1WtU0T7Q8Rxg8KGgNN_-aBIoZjNf3p2CB_dK65wxiDt-6X1m_DF8b_j2wAbuO1AF1KmUsIIc_AA4782GNgjYHQBcIRa6zXbug4BQgcv9DWSqOfdi1PWKVSBHHXpCBjZLcr7GYWakTFOi73WWNKOISxNmdLk4m9wz54Oiwm8Be4_uwPuqVWp_l5mu5htSXprpRCrUEkYmWKzCrraGlepMHh8jif_gFCVxMmmTxzl5lWqmr7bvrft9JqB8ZKFC__WKwD8ugnZyKCsfnlskyOsVDLez4LYIV5-BJyq518RJB9yPqTE5RX162RWQvwu5ZnPHRnqdMNoIZLl02Esf6WS9Okt7BpfE9vGNQ1JFTYjG1d48GsB4MAhTu63Vsv5GfJBm-R-OmWES8DaB2FM-dPHqxBnx8EUN8LmCZeOuzJKcDpXaOav7hikt8C8N-0yMKoEZfzgpnSUYga6ScEOvjI5Bp18K7fjPGHkcCdyAwbtiM3ExVEA2KjNMqlu3wRafwh4f-1pBwYs05mNf2OcwYdC-MT-rCNHJrQXsDb3Zw6ddHi-o-RkatrHKRXZMy-RioQj3wcZOEmq3ka0xfAvwHq4ySM2jA3z3azxS_lBU6507EFWdrhzZOfk30Jnx94cCKMuTow9kjWmKkxj6iU092ABu-ETRt5kSI2T-3lvZzsbvSsl9lMdG2gIRJny9OP4RVswC9x1c1PI3CgDFh5BwkS09mtekfltu6o5udBkrnzcmh_ZKFfSmS6inZGuB9S8Tm8l2P-cX0FtAJiT5BBh7jO54TDnfVNNGR4MUnY7QHHN5tKsX7n6MaSsXux37ROLkN40n6R-wxCxqXN436ymVZgOwY1v3i6aWbC8dkV6W_Q0IUVx2R2cXImiotL1cfoVI3QEEu7kRSItLnQzCrmG1wGBI8x7THp5nSE_9e9MyAbnxRcr7LEZdITCzrzkHy0GvpuWiVZhmS2luUYpP23IxgutKSveco3aAoLmkXXB6ab6IoZ-DG27Cnz5e_e_iWiii-IK2BJFzaB47v2fy&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22f0678bc5-7a52-4398-aafc-c5c269b8210f%22%2Csu
+
+#EXTINF:-1 tvg-id="Malhação Fast" tvg-name="" tvg-logo="https://pbs.twimg.com/ext_tw_video_thumb/1735084428550868992/pu/img/m5JJPbsZgEFaFeYs.png"group-title="Canais FAST  ", Malhação Fast
+https://live-mir-ma-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtbWlyLW1hLTAxLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxOTAwMTAwMSwiaWF0IjoxNzE4OTE0NjAxLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjY3ZmNhMWZiLTE1N2EtNDhlNi04MTY0LTlhZmEwYzI5MDYyMyIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL21hbGhhZmFzdDI0aGEvcGxheWxpc3QubTN1OCJ9.nuhX5omWA4LXrN2jK6kEL0ZLA5Vk_Mkm-ORWUIVmY61YaubrKuRXoE2gLETKkBvb0JYPFdoCA6VnUfEGMBhHpP2ivB-VkvR1ejvbfJqj3R1INQ9J8fmG7CtSCwGEmqqhAdpxrOdAAdzuG9pIO-pxUWwypuN_Tz_TQzzKTSgLRivlLDleYqkc3RKj_ECqVVXvJd6VCxFTVwwn9IjRd5X5fBGWhYILcRtHxgXDiM7gzYKVPdZ2O9lFVnHYFE6F6WojWtL5rHXpNY27IRWprd4_BMg-LsarOkV6CLGbM7WKuWBQjeBq0x3pzez09XLckkjeXqo_H-fr-104hlLwnbHgWw/nu/f(bMin=2000)/malhafast24ha/malhafast24ha-audio_0=192000-video=3440000.m3u8
+
+#EXTINF:-1 tvg-id="Futura" tvg-name="" tvg-logo="https://logospng.org/wp-content/uploads/futura.png"group-title="TV Aberta  ", Futura
+https://live-mir-ma-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtbWlyLW1hLTAyLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxOTAwMDg5MSwiaWF0IjoxNzE4OTE0NDkxLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjY3ZmNhMWZiLTE1N2EtNDhlNi04MTY0LTlhZmEwYzI5MDYyMyIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL2Z1dHVyYTI0aGEvcGxheWxpc3QubTN1OCJ9.YST0CqyRxnALRdA6DFuNnlGy5IBoxDR3mr_IK--cVYg0zZXCzLsgF6Ek6dMcuvWO-alkXTa83gXjvKL7gI4T3WQ8zPqGaiVfRvDgIjuZHX_swwV0m5KzUu-LYqoCeibK_H3BbTDmitsYVIJvljYH4AYEpYcqwP-VgKI5navlthaNA9yWeejM5kJq0e-mH18r1x3BLsu5mCTgzRoTkwEb9s8YHV4rFQdqJj-xWjETHRiC0SbEIzPYqCVMgRm_X-Il4QA2MwqpUoG5fedOCI2D_V-xd-EYdkLXt5MAlmy-2mdhjtjWkgp-wyAUVKOAy6WTAneTWnljy-GN5DeQSbuUhA/nu/f(bMin=2000)/futura24ha/futura24ha-audio_1=96000-video=3442944.m3u8
+
+#EXTINF:-1 tvg-id="ge Fast" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ge.globo_logo.svg/1200px-Ge.globo_logo.svg.png"group-title="Canais FAST  ", ge Fast
+https://live-mir-ma-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtbWlyLW1hLTAxLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxOTAwMTA4OSwiaWF0IjoxNzE4OTE0Njg5LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjY3ZmNhMWZiLTE1N2EtNDhlNi04MTY0LTlhZmEwYzI5MDYyMyIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL3Nwb2Zhc3QyNGhhL3BsYXlsaXN0Lm0zdTgifQ.zjGR7jcoiq1CWzIHOTy2wTlKHElWeAOjDHQP2PRqUKD5NJy2kqb-ZntxoM477n2Kvja4nddh_7uFU8Us08wlZiBVQVc9oBMwYNHdrs_09mJzHcF2msGf2f-m_-4hxj6uZHOzWREsA5MSEy7kAojXriBZxdg3wreulLhjq50ag12K0mq-7s8nLKJRABkklRk0w9GYCY8DyE1vPHkcCCYCSRIBckXwCttU_iPxKmdoQcFX1d8_TfTvHuBhMOOOlIdfjpvPs6wonfR3b3mlcnO1Zt_p4kfYbmMjnTvFLV4cmg3BLaM61lZhj5Gh76cDMrX3vwbxof4gFRlhYAS0fbrh6A/nu/f(bMin=2000)/spofast24ha/spofast24ha-audio_0=192000-video=3440000.m3u8
 
 #EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="TV Aberta | Rede Globo ", TV Globo Nordeste
 http://gzcdn.vood.top/live/tvglobo/globonordeste/2428.m3u8
@@ -6,178 +18,104 @@ http://gzcdn.vood.top/live/tvglobo/globonordeste/2428.m3u8
 #EXTINF:-1 tvg-id="Rede Clube" tvg-name="Globo RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="TV Aberta | Rede Clube", Rede Clube
 https://live-mir-ma-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtbWlyLW1hLTAyLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxODk3NDY1OCwiaWF0IjoxNzE4ODg4MjU4LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjY3ZmNhMWZiLTE1N2EtNDhlNi04MTY0LTlhZmEwYzI5MDYyMyIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL2dsb2JvLXRlci9wbGF5bGlzdC5tM3U4In0.ZEDwa-t8288YWiJ4EwpTlwDJOkFGLLBaDWkVfhJrUJvBxOcKG8s3u--iAZY09XuqO2loon47w-HDzfvBgxJKhw0tvMlzodofoFluFKY_nVytPXzXQqRQ-9mal4La8f5HDG7Zn4Fv0wJnxLz0pIq4G9yO-uw_FNA81fwMGIUHTN_8A6EhgMWVhD9otsns16Q19sgpV4SwkfbGC_t5rJb9fK2I6puxzKK6pqbk6SvTWz7ArCHJl_iF-2jdsFgBzY7H6LdWdqJ3kCHIgNXOsH_0B2gcyYdfv30Pbb0OAZ2CPde0DqE_Mr2tzVGC1oPAFZ3aaxbp-XNGuwlXVi73r3WJtw/nu/f(bMin=2000)/globo-ter/globo-ter-audio_1=96000-video=3442944.m3u8
 
-
 #EXTINF:-1 tvg-id="Viva" tvg-name="Viva HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1200px-Canal_Viva_2018_wordmark.svg.png"group-title="Variedades | Viva",Viva
 https://acessoplus.top/live/2481389383/6779475619/239951.m3u8
-
 
 #EXTINF:-1 tvg-id="Globo News" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png"group-title="Notícias | Globo News",Globo News
 http://czcdn.vood.top/live/redeglobo/globonews/478.m3u8
 
-
 #EXTINF:-1 tvg-id="Multishow" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/800px-Multishow_logo_red_2012.svg.png"group-title="Multishow | Multishow FHD",Multishow
 http://ecliente.xyz/live/Je9pqtXA/yMrSVcHQ/96571.m3u8
-
 
 #EXTINF:-1 tvg-id="TV Cultura" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png"group-title="TV Aberta ",TV Cultura
 http://zlb183.office646851.online/auth/234954.m3u8?token=ykRWqtmwHpPf2wZCuWGG2kdwNBJ5ZpKVCufgVP2kXrE7o0Dn5HNHYmvJJIuKYLMnGbp3Nz1Uz9q_vTGH03AiX6XItldH6m4NPbaa3xTKwtEdtHWSnTluc8-y5zIpSR7pApe0RaAI_-7Iw-Xx9oZaW6rs2xltieILpd8NMn1q2Z612Sxp0NNhejsctXA5wj-1Xsebgl5eLeJv_MAb-P8Of0qczzm2pt5vLZQkFlPSyYX4MtzuL1Z1WQBY6K4uJ0rN0tXXyN5fuWsX3GxBROHnzS02ZjoNhmXMnpxaxOmJJ0X2aM18K7IfU6g0_nzRB1gP8fon-gqysS6QmiMdbhoB4emDUackHnzjL81TfKeI71PlP0ywlaIW3S7zh_3iUXTyzb_cZgJv9rSmD4ips6Pqn-4ZccGLLT6EuULAKl6EJLwa_jqQTqA5Q5y4QNnPFvDoOs157bzLZZvECBbBRB94Nx5HfYflARk6HaX4_Hyd01xM_35aEUy3SVgWDHeJ2GSQ1hYrj6GUS_i1RjPv0NBsaU6GOsciPe2N-9O0myxVa9lzCpQgkj8YrmBDFT8GvmxrTWxOe7j8XjJv3NmzcuCx9w&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTg3NTI4NTksIm5iZiI6MTcxODc1Mjg1OSwiZXhwIjoxNzE4NzY3MjU5LCJpc3MiOiIiLCJqdGkiOiI4NzIzMTI1NjY2NjcyMTY1YjU1N2UzMy42MjI1Mzc2OSIsImFnZW50IjoiY29tLmZsZXh0di5saXZlc3RvcmVcLzMzIChMaW51eDsgVTsgQW5kcm9pZCAxMDsgcHRfQlI7IG1vdG8gZyg4KSBwbHVzOyBCdWlsZFwvUVBJUzMwLjI4LVEzLTI4LTI2LTQtMS03OyBDcm9uZXRcLzEyNi4wLjY0MjMuMCkiLCJyZWZlcmVyIjpudWxsLCJ1c2VybmFtZSI6IjE0MjE5MyIsImNsaWVudGUiOiIyODA0OjMyNDQ6MzUwOToyZDY2OjNjMjE6N2I2Yjo2YWJlOjNiZTQifQ.Y6QCzyOOp66Oe666orqVfsDQwMeKEYtnSqjkCQYbE7s
 
-
 #EXTINF:-1 tvg-id="SBT SP" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/2048px-Logotipo_do_SBT.svg.png"group-title="TV Aberta ",SBT
 https://aovivo.maissbt.com/index_24.m3u8
-
 
 #EXTINF:-1 tvg-id="Star Channel" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png"group-title="Star Channel | Star Channel",Star Channel
 http://czcdn.vood.top/live/starplus/starchannel/598.m3u8
 
-
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png"group-title="Esportes | Sportv ",SporTV 4K
 http://mia-vb34twfve4t436dsf.edge77.bond:80/auth/1031166.m3u8?token=FDq4e0T01ywUvVNQsMSTRBkVVxNmBiV0l_AvO_Epe57nWoAkx_NpzuPPdgNgVfOWzrZCXldeINvQO5QVCI-R7UEpwvO0deOWT-xMqLZGjEPlI5wu23RcnexbIC5XpFUR2Rf_ch5o0ux8p46ZM90uGwtT8VcfgouTtDIRJuqIMkX-EBxWzdbGxUhdQ72htoFNHRNsXvktLWkybFLFfjSyK4TXi3-dyRrl47f1fYNFHzqPRKip768uIp9Dd0dKXlUIlewU8LO8kzzxTHeYOrCN04XxFtx-aThzFNPbzK7s5ZrZOSwKoaGHXBs9CFi8VOQSfyWLSE-j8zW-j7rHrhq-RXRUeE8Ba_olD-CDlUMPJyIW9a1ZQ-vYZhZWxoqg280rPUOYiXycfFwkBrvrb8iaBSQyfQJyRmZJCA6Igtjewi7q6mkh7MgdflEzfVzuMCcZESSsOlkInYFXep-3DDBgMLZ2A6QQxZJykj7S6yM4Rq4YTDKe2Bp9FfOfsuS9gBMoM_dxx7boRylXy9EOjFuIX2faLcIKtP5XBpqlKn66GJDnlMBKTcjTGmsXo0-oShLEswXPnUgNGPQVy7DgYmxLnw
-
 
 #EXTINF:-1 tvg-id="Gloob FHD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/2560px-Gloob_logo.svg.png"group-title="Infantil | Gloob FHD",Gloob
 http://fzcdn.vood.top/live/canaisglobosat/gloob/380.m3u8
 
-
 #EXTINF:-1 tvg-id="CNN Brasil" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png"group-title="Notícias | CNN Brasil",CNN Brasil 
 http://warez.la/live/5750534/6894392/1051376.m3u8?
-
 
 #EXTINF:-1 tvg-id="Telecine Premium" tvg-name="" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png"group-title="Entretenimento | Telecine",Telecine Premium
 http://fzcdn.vood.top/live/canaisglobosat/telecinepremium/635.m3u8
 
-
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png"group-title="TV Aberta | RecordTV",Record TV
 http://gzcdn.vood.top/live/canaltvrecord/recordtvsp/244071.m3u8
-
 
 #EXTINF:-1 tvg-id="Band SP" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Band_logo_2018.png/640px-Band_logo_2018.png"group-title="TV Aberta | Band SP",Band SP
 http://1111.wf/live/Aline3213q/11236513/255467.m3u8
 
-
 #EXTINF:-1 tvg-id="GNT" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png"group-title="Variedades | ",GNT
 http://warez.la/live/5750534/6894392/93809.m3u8?
-
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png"group-title="Esportes | ", Premiere Clubes
 http://izcdn.vood.top/live/canaisgloboplay/premiereclubes/494.m3u8
 
-
 #EXTINF:-1 tvg-id="History" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png"group-title="Documentários| ", History FHD
 http://izcdn.vood.top/live/historychannelbr/canalhistory/2617.m3u8
-
 
 #EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png"group-title="Religiosos| ", TV Novo Tempo
 http://hzcdn.vood.top/live/canaltvnovotempo/tvnovotempofhd/202.m3u8
 
-
 #EXTINF:-1 tvg-id="Telecine Action" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/TelecineAction2021.png"group-title="Entretenimento| ", Telecine Action
 http://fzcdn.vood.top/live/canaisglobosat/telecineaction/615.m3u8
-
 
 #EXTINF:-1 tvg-id="Telecine Cult" tvg-name="" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-cult-252x252.png"group-title="Entretenimento| ", Telecine Cult
 http://fzcdn.vood.top/live/canaisglobosat/telecinecult/620.m3u8
 
-
 #EXTINF:-1 tvg-id="Telecine Fun" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png"group-title="Entretenimento| ", Telecine Fun
 http://fzcdn.vood.top/live/canaisglobosat/telecinefun/625.m3u8
-
 
 #EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-pipoca-252x252.png"group-title="Entretenimento| ", Telecine Pipoca
 http://fzcdn.vood.top/live/canaisglobosat/telecinepipoca/630.m3u8
 
-
 #EXTINF:-1 tvg-id="Telecine Touch" tvg-name="" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-touch-252x252.png"group-title="Entretenimento| ", Telecine Touch
 http://fzcdn.vood.top/live/canaisglobosat/telecinetouch/589.m3u8
-
 
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png"group-title="Infantil| ", Discovery Kids
 http://ecliente.xyz/live/Je9pqtXA/yMrSVcHQ/100266.m3u8
 
-
 #EXTINF:-1 tvg-id="Canal OFF" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png"group-title="Variedades| ", Canal OFF
 http://czcdn.vood.top/live/canaloff/canalofffhd/253.m3u8
-
 
 #EXTINF:-1 tvg-id="TV Brasil" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1280px-TV_Brasil_logo_2019.svg.png"group-title="TV Aberta| ", TV Brasil
 http://gzcdn.vood.top/live/canaltvbrasil/tvbrasilhd/165.m3u8
 
-
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png"group-title="Entretenimento| ", Warner Channel
 http://hzcdn.vood.top/live/warnerchannel/warnerchannelfhd/749.m3u8
-
 
 #EXTINF:-1 tvg-id="Record News" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/2560px-Record_News_logo_2022.svg.png"group-title="Notícias| ", Record News
 http://1111.wf/live/Aline3213q/11236513/488.m3u8
 
-
 #EXTINF:-1 tvg-id="Sportv 2" tvg-name="" tvg-logo="https://teleguiado.com/wp-content/uploads/2022/08/SPORTV-2.png"group-title="Esportes | Sportv 2",Sportv 2
 http://1111.wf/live/Aline3213q/11236513/554.m3u8
-
 
 #EXTINF:-1 tvg-id="Premiere 2" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png"group-title="Esportes | ", Premiere 2
 http://1111.wf/live/Aline3213q/11236513/499.m3u8
 
-
 #EXTINF:-1 tvg-id="Canal do Boi" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png"group-title="Variedades | ", Canal do Boi
 http://gzcdn.vood.top/live/canaldoboi/canaldoboifhd/141.m3u8
-
 
 #EXTINF:-1 tvg-id="Gloobinho HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/GloobinhoLogo.png"group-title="Infantil  ", Gloobinho
 http://ecliente.xyz/live/Je9pqtXA/yMrSVcHQ/604854.m3u8
 
-
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Disney%2B_2024.svg"group-title="Infantil | ", Disney Channel
 http://hzcdn.vood.top/live/disney+/disneychannelbr/358.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTg5Mjc5OTksImlhdCI6MTcxODg0MTYwMCwibmJmIjoxNzE4ODQxNjAwLCJ1c2VyIjoiMjYyMTQ0NTE0IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEzOyBNMjEwMUs3QkkpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjcuMC42NTMzLjIgTW9iaWxlIFNhZmFyaS81MzcuMzYiLCJ1c2VySXAiOiI1MS44MS4xMDcuODM6Mzc0MjQifQ.JZMdYq5Nu4VEiP34we4SZORyme1pE456FGX9J1LVEzk
-
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png"group-title="Documentários | ", Discovery Channel
 http://czcdn.vood.top/live/discovery/discoverychannelfhd/2577.m3u8
 
-
 #EXTINF:-1 tvg-id="Nickelodeon FHD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1280px-Nickelodeon_2023_logo_%28outline%29.svg.png"group-title="Infantil | ", Nickelodeon
 http://hzcdn.vood.top/live/nickelodeon/canalnickelodeon/372.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTg5Mjc5OTksImlhdCI6MTcxODg0MTYwMCwibmJmIjoxNzE4ODQxNjAwLCJ1c2VyIjoiMjYyMTQ0NTE0IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEzOyBNMjEwMUs3QkkpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjcuMC42NTMzLjIgTW9iaWxlIFNhZmFyaS81MzcuMzYiLCJ1c2VySXAiOiI1MS44MS4xMDcuODM6Mzc2ODYifQ.kHZweQhGKaiKgV024T5o1G-16eL821mg5PEW1pNzUKs
 
-
 #EXTINF:-1 tvg-id="Viva 70 Fast" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPaln8PFeEzdi-I96GbMe8Mn4sgYnZXh64cDVRGOSnFr0YvNlXbVYOf5c&s=10.png"group-title="Canais FAST  ", Viva 70 Fast
-https://live-mir-ma-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtbWlyLW1hLTAyLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxODk3NDM0NiwiaWF0IjoxNzE4ODg3OTQ2LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjY3ZmNhMWZiLTE1N2EtNDhlNi04MTY0LTlhZmEwYzI5MDYyMyIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL25vdjcwZmFzdDI0aGEvcGxheWxpc3QubTN1OCJ9.Ghq8HkanG2YeA2BAFxx6h5N-q6Q1yiEFCZNpKuYab8tJmpoHmqCfXhhkob3IS-Xqvczk9eAX5f1Yy4ItVijV49Lykzd2ttv0qklaf5gC3TSQKBt5qZkvKuirq1B_IO10rIqWSFHRyZdqXuqVG6XH3JG16eDkgjR2Gqe12cY18BOXm7EOpy_sGvhMcIb_n8nQYw0jHdqy4Zgy_p1-pJRS-6NWmUEPaw5QuHFGpDK4jsrtRqa8BzYwNBfo3Nwn44F-ldar1TMRn0LLG2jHSXC8fQpiDuBsMZNgSF5_4XCVtRjb8dP3hmZmUTZfdsUFeQ5eQg6NMnD12EBAyLc1ZshQzA/nu/f(bMin=2000)/nov70fast24ha/nov70fast24ha-audio_0=192000-video=3440000.m3u8
-
-
-#EXTINF:-1 tvg-id="Viva 80 Fast" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6bjm_5zPF7NdXALeMS_EKp7zPhwebNg-ewcOPdFeiejpcPLfm0aCp44ho&s=10.png"group-title="Canais FAST  ", Viva 80 Fast
-https://live-mir-ma-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtbWlyLW1hLTAyLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxODk3NDM5MywiaWF0IjoxNzE4ODg3OTkzLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjY3ZmNhMWZiLTE1N2EtNDhlNi04MTY0LTlhZmEwYzI5MDYyMyIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL25vdjgwZmFzdDI0aGEvcGxheWxpc3QubTN1OCJ9.iUTM5qCBBWg-Ny5ho74dlG28i5WksPYE3UV-z-IIx5a7ej6XtcB9fu329Px0tuvn3rqKODzAe4tR3VtjuWW0YKo38vITNMmfM6Ix9AxpYCKW02BWBQNw8L4TRbCk7GPh42YA6vQ4ZH4CT4CjEKzMY1F6NNK4QXlnKLvdcq0a8ZiiQjSSOtS6A4G_xSHMLBq9eIJRJx_G7yUGNb1btlPWRnn6MpE9ikxmvhyRCciGueSHZRs26G3tflFsou1SGNGRKQQefyWCGWhUxAv80NARl7UUem7_nkzkoQLd9_mQpKZAExcPOjVi20nHysUsrjCSLoSMHtrHbiCPyZr89KsQQQ/nu/f(bMin=2000)/nov80fast24ha/nov80fast24ha-audio_0=192000-video=3440000.m3u8
-
-
-#EXTINF:-1 tvg-id="Receitas Fast" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnpFRsGpo-0GkrWJqHWdPCWCNoYrqiNLA_Uw&usqp=CAU.png"group-title="Canais FAST  ", Receitas Fast
-https://live-mir-ma-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtbWlyLW1hLTAxLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxODk3NDUwNSwiaWF0IjoxNzE4ODg4MTA1LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjY3ZmNhMWZiLTE1N2EtNDhlNi04MTY0LTlhZmEwYzI5MDYyMyIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL2dudGZhc3QyNGhhL3BsYXlsaXN0Lm0zdTgifQ.0hRveilkTofN3rZk_alY6mIMQG1ZMC8_LGbawNEQKgYGFbKIp4MtEeRUG6btHXaCM2GzW4LGRHIOC5pqK3yBX8Ns9ykq7kIbzpAJx2G6LuzrYIk2DGj_8eFu4RxW7nYTDTQtJBLsZRfZlDEfi2R0L6CoxuDQnPvVdGiB41djqMbw9ojEeE5goxKsT1awll_9weZQQtIknuzAB5J6lYuYXQp0GFJdgFnQuNf50n5wupHmEwF6IDtrEjkno8L_GJbXYXv46qqbgJH_sS2P2u6aFVjdBZPWUcEV1FvEXjrYUd3rTrjePJiqWbesYlmGYJyHHymBfCXvyxOIte46IkSxbw/nu/f(bMin=2000)/gntfast24ha/gntfast24ha-audio_0=192000-video=3440000.m3u8
-
-
-#EXTINF:-1 tvg-id="Cartoon Network FHD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png"group-title="Infantil  ", Cartoon Network
-http://asrv.io/live/zezinhotv/gigi1010/110151.m3u8
-
-
-#EXTINF:-1 tvg-id="Animal Planet FHD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png"group-title="Documentário  ", Animal Planet
-http://warez.la/live/5750534/6894392/93824.m3u8
-
-
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png"group-title="Infantil  ", Cartoonito
-http://ecliente.xyz/live/Je9pqtXA/yMrSVcHQ/100253.m3u8
-
-
-#EXTINF:-1 tvg-id="CazeTV" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo-0.png"group-title="Esportes  ", CazeTV
-https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CpQFthnEBesLTyFYw2CEh7b-8sZNjxuJsTfMOf7yPGVAA-yoKLh5AZYknBNxS2_wqOL59hXgGdvw_udQmhG8VAl7sjv5ZNPiDtxbyG2JM4cacuAKOWVjp-N2TkqZuYel7JJw15B7AK-VKSPS-Es3nxeQpQH-ZMY-TczkVCmy1JNMYoeZ-VksNfjWNSLTeFsY5fEXcESGwbkoBdYv3laE33s5UfPRG6N-i7LSDaiE-cDeQQUvRP2OeeyDKVMNdA2xw83vyM2vngx7dbkIEZAhdRx41HkmIkYZQjcHG7Lu-2ivhKHwLecjN8NZa5NBUL3t-UI16Mlqk8LiKsj5yW_1S82S5IsuJrMzy2xleCPZ9TVNz5ZpQKMNvh2Y2xpUUYLzh-rO-QGUQ7V1qgfRN1Ova-gvblHYRv6x2MmLR9jeetaXYti8Fkfd26nMDq-KqogxCo3HHcUVMgSbFt6gg6V23bC0HPSBoDxOzO7xMiVJ5o4IRV568hfqAdwdRAxzJe_PT0IHiJsA9KYJ5q20jTOQ_FLywjNenNXWZRCZvNq0AhoSQnSJV1FPaWFQAf5ML59IC4OJGsptvRgTCLslE4RUbHL4ejDtsDRGvIkfTITiHzIR5nKkBtBbZSfxd7RKsNVPqNd64Lw7u-Oqsx3MYQ8KrOkWMawx9b_9JT_4MkaJguFJhW-Chi9JVL7KJAhuww5cjGLvsM6KrYnfMCJlGMtiIUHo5hSdqXIixT6ox2k4EioxnVhDrKAUu3E_Cuk6W-mypKO8NEDlg0rUHwISkkWYQOAK6w38IhQOakpZ6lFn7RWQFVL_unJryMzd-5lZyGde5EHgBeJQARcz2A2Tf1WeW5KQqGf6-V3lDWm75cBPfZouRh-HBIwjGgygh5Gih6uPpbNCkBUgASoJdXMtZWFzdC0xMJAI.m3u8
-
-
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="TV Aberta  ", TV Globo SP
-https://live-nsc-sc-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtbnNjLXNjLTAxLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxOTAwMjczNCwiaWF0IjoxNzE4OTE2MzM0LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjY3ZmNhMWZiLTE1N2EtNDhlNi04MTY0LTlhZmEwYzI5MDYyMyIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL2dsb2JvLWNoYS9wbGF5bGlzdC5tM3U4In0.CkUqVuDlZm-lEYI-CIBqJomlyS3gDBuBFg7sZk6e4jLctA1tQoy1W_hwCjbdTR47oXvj5Px43FB85xcABNEop3sVAzEAYF9g8l6rpVUOAKJheTwPTwWee6CzYeete2k6QOxAXFgF3gxRHC5r5qFcWQDqeCi-MwhP6agRwG_P3ytrO7XET1AuYKwT_E63oUCwVwJF-w6tGs9dE6Ud0PCFTaVtt0HubUU9wUc6jVsWTCTUIWZzMWbLqNq_1phNmcDqkHJgQR1F_GsK-rGytsqUiDoy2tp4nrTpytQZvH1fWbxbYQrMhO5E-3ONv8Yfg7injF6Izl9E3WBpdw1GLKH53A/nu/f(bMin=2000)/globo-cha/globo-cha-audio_1=96000-video=3442944.m3u8
-
-
-#EXTINF:-1 tvg-id="Jogos do Dia" tvg-name="" tvg-logo="https://cdn-fjnlm.nitrocdn.com/ONnSJGWbzUzAbfhvnyFmtOUoUtuNFMOc/assets/images/optimized/rev-e0d5849/www.tvexpress.pro/wp-content/uploads/2024/05/mosaico.webp"group-title="Esportes  ", Jogos do Dia
-http://hzcdn.vood.top/live/jogosdehoje/centralcaze/234252.m3u8
-
-
-#EXTINF:-1 tvg-id="DPA Fast" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/93/DPA_Logo.png"group-title="Canais FAST  ", DPA Fast
-https://live-mir-ma-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtbWlyLW1hLTAyLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxODk3NDgwNSwiaWF0IjoxNzE4ODg4NDA1LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjY3ZmNhMWZiLTE1N2EtNDhlNi04MTY0LTlhZmEwYzI5MDYyMyIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL2RwYWZhc3QyNGhhL3BsYXlsaXN0Lm0zdTgifQ.XEPpmkcBbJT6S7D_28XVZBtgRYz_G4M3t775Xtjvq22-QP_pGXiB9Q9cSAONKBCK5dG3FOYVZTDrwnvqWRocklOVLNprhun6p_e7KwxncVzA6YRJQPFi9DmZFXpKwapPH2qOLCUtFl6Ou6jtvxmBN4KA7XwPS71BbR118jizC2TV9Nbof5gtlU1z62oY8xHbIE1i3ugW1R2Rgbuzldu3jS1PeUOYIkMgCuqa3pe3sOgovCJ6ted2GCyMu-_G0o04iWXe_OiTwJ47QQdYLyXrD-eFJgLsdoDV8_G26ukiqT7VyDKvf1oeRl1NB-2KQiKDtl0Vx6pbDKg4zy4U1_LX-Q/nu/f(bMin=2000)/dpafast24ha/dpafast24ha-audio_0=192000-video=3440000.m3u8
-
-
-#EXTINF:-1 tvg-id="ge Fast" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ge.globo_logo.svg/1200px-Ge.globo_logo.svg.png"group-title="Canais FAST  ", ge Fast
-https://live-mir-ma-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtbWlyLW1hLTAxLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxOTAwMTA4OSwiaWF0IjoxNzE4OTE0Njg5LC
+https://live-mir-ma-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtbWlyLW1hLTAyLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxODk3NDM0NiwiaWF0IjoxNzE4ODg3OTQ2LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjY3ZmNhMWZiLTE1N2EtNDhlNi04MTY0LTlhZmEwYzI5MDYyMyIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL25vdjcw

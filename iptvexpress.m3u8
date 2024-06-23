@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="TVExpress" tvg-name="" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/samsung-tv-plus/SAMSUNG_TV_PLUS_PRIMARY_STACKED_LOGO_COLOURED_BLACK_RGB.png?$ORIGIN_PNG$.png"group-title="TVPlus | ", É streaming. É grátis. É seu.
 https://images.samsung.com/is/content/samsung/assets/br/tvs/smart-tv/samsung-tv-plus/2022/BRANDING_BRASIL_smaller.mp4
-#EXTINF:-1 tvg-id="Jogos do Dia" tvg-name="" tvg-logo="https://cdn-fjnlm.nitrocdn.com/ONnSJGWbzUzAbfhvnyFmtOUoUtuNFMOc/assets/images/optimized/rev-e0d5849/www.tvexpress.pro/wp-content/uploads/2024/05/mosaico.webp"group-title="Esportes  ", Jogos do Dia
+#EXTINF:-1 tvg-id="Jogos do Dia" tvg-name="" tvg-logo="https://cdn-fjnlm.nitrocdn.com/ONnSJGWbzUzAbfhvnyFmtOUoUtuNFMOc/assets/images/optimized/rev-e0d5849/www.tvexpress.pro/wp-content/uploads/2024/05/menu-do-futebol.webp"group-title="Esportes  ", Jogos do Dia
 http://hzcdn.vood.top/live/jogosdehoje/centralcaze/234252.m3u8
 #EXTINF:-1 tvg-id="CazeTV" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo-0.png"group-title="Esportes | ", CazeTV
 http://fzcdn.vood.top/live/cazetv/cazetvexpress/311744.m3u8
@@ -18,9 +18,9 @@ https://live-01.edge-vivo-do-go.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6Ij
 https://aovivo.maissbt.com/index_24.m3u8
 #EXTINF:-1 tvg-id="DiaTV" tvg-name="" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BR30000438_20240612T014440SQUARE.png"group-title="Entretenimento | ", DiaTV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/662156805a31f70013dba21c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="TV Aberta  ", TV Globo SP
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest?cb=20220201030422.png"group-title="TV Aberta  ", TV Globo SP
 https://live-as-03-35.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDMtMzUudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE5MjYzODM3LCJpYXQiOjE3MTkxNzc0MzcsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNjdmY2ExZmItMTU3YS00OGU2LTgxNjQtOWFmYTBjMjkwNjIzIiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCkvZ2xvYm8tbWFjL3BsYXlsaXN0Lm0zdTgifQ.dBiBbvBk9hJ-LrsXSrQf-khMtpf1n0AGXw8KS7Gr5aywbccFPmhY_Nh1wkjPYjhxilmXycBPVVn-bRl53DxXE30ETitjI9TJzvE9N-UPWq_YEOMlE4qFWNLCMimq-YTu9sry9TyKbaMChSSh3FcpZsAljBTrOwavf3MaeZaMBxUWfypXYx7oXDZ0DWFNNXRhVC31m87d9c0CN-wT9Oj1O7wPjPyPE9lEI1dlo30I8lpLME4TlgsNUR5Zr6ngqv2zMXJxyrvQ_NqFNBJbzG40QKKyg5Jri5ITWw5ARTu2pQ3BKlxrnArkPIaPZvzmPDrIRxVSPRhZi3l9thdu-QamfQ/nu/f(bMin=2000)/globo-mac/globo-mac-audio_1=96000-video=3442944.m3u8
-#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="TV Aberta | Rede Globo ", TV Globo Nordeste
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest?cb=20220201030422.png" group-title="TV Aberta | Rede Globo ", TV Globo Nordeste
 http://gzcdn.vood.top/live/tvglobo/globonordeste/2428.m3u8
 #EXTINF:-1 tvg-id="Viva" tvg-name="Viva HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1200px-Canal_Viva_2018_wordmark.svg.png"group-title="Variedades | Viva",Viva
 http://czcdn.vood.top/live/viva4k/tvexpress/284616.m3u8
@@ -34,7 +34,7 @@ https://aovivo.maissbt.com/index.m3u8?content_channel_id=12&content_livestream=1
 #EXTINF:-1 tvg-id="Star Channel" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png"group-title="Star Channel | Star Channel",Star Channel
 http://czcdn.vood.top/live/starplus/tvexpress/598.m3u8
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png"group-title="Esportes | Sportv ",SporTV
-http://czcdn.vood.top/live/sportvglobo/tvexpress/284576.m3u8
+http://infraz.top:80/3486527/8553692/311503.m3u8
 #EXTINF:-1 tvg-id="Gloob FHD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/2560px-Gloob_logo.svg.png"group-title="Infantil | Gloob FHD",Gloob
 http://fzcdn.vood.top/live/canaisglobosat/gloob/380.m3u8
 #EXTINF:-1 tvg-id="CNN Brasil" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png"group-title="Notícias | CNN Brasil",CNN Brasil 
@@ -46,7 +46,7 @@ http://gzcdn.vood.top/live/canaltvrecord/recordtvsp/244071.m3u8
 #EXTINF:-1 tvg-id="Band SP" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Band_logo_2018.png/640px-Band_logo_2018.png"group-title="TV Aberta | Band SP",Band
 https://live-b2.cf.dmcdn.net/sec2(-OtMpSg3DHLaUhOzJOW_BQ-mu4vOTKAZjM3Wh_Vn79JgvH6HeiKqhcfNAo3Iz5fIP3c4me06B5QzGOUiyr935EwCsZpisWfZGNudQHDpds8)/cloud/3/x8nkbc2/s/live-3.m3u8
 #EXTINF:-1 tvg-id="GNT" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png"group-title="Variedades | ",GNT
-http://dzcdn.vood.top/live/gntglobo/tvexpress/2484.m3u8
+http://infraz.top:80/3486527/8553692/311510.m3u8
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png"group-title="Esportes | ", Premiere
 http://fzcdn.vood.top/live/premiereglobo/tvexpress/370480.m3u8
 #EXTINF:-1 tvg-id="History" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png"group-title="Documentários| ", History FHD
@@ -101,8 +101,13 @@ http://hzcdn.vood.top/live/animalplanet/tvexpress/2602.m3u8
 http://hzcdn.vood.top/live/amc/tvexpress/671.m3u8
 #EXTINF:-1 tvg-id="BIS" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/1200px-Logo_of_Bis.svg.png"group-title="Variedades  ", BIS
 http://hzcdn.vood.top/live/bisglobo/tvexpress/2464.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSsYbkVfj9pKAGTZ-aZexuZILOv2_GlXpOGvM15bO720T7FNeAxz12-TC7&s=10.png"group-title="Esportes  ", ESPN
+#EXTINF:-1 tvg-id="ESPN" tvg-name="" tvg-logo="https://www.gullane.com.br/wp-content/uploads/2018/02/espn-logo-black-transparent.png"group-title="Esportes  ", ESPN
 http://infraz.top:80/3486527/8553692/311519.m3u8
+#EXTINF:-1 tvg-id="TV Globo RJ" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest?cb=20220201030422.png"group-title="TV Aberta  ", TV Globo RJ
+http://infraz.top:80/3486527/8553692/2071.m3u8
+
+
+
 
 
 Sobre:"A TVExpress se destaca como uma plataforma acessível e de qualidade que oferece canais brasileiros e internacionais, legendados e dublados em português. Oferecemos uma variedade de canais e conteúdo completo, para que você possa aproveitar o melhor do futebol, séries, filmes e muito mais"

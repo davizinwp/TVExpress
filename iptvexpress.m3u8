@@ -101,8 +101,8 @@ http://hzcdn.vood.top/live/animalplanet/tvexpress/2602.m3u8
 http://hzcdn.vood.top/live/amc/tvexpress/671.m3u8
 #EXTINF:-1 tvg-id="BIS" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/1200px-Logo_of_Bis.svg.png"group-title="Variedades  ", BIS
 http://hzcdn.vood.top/live/bisglobo/tvexpress/2464.m3u8
-#EXTINF:-1 tvg-id="TV Globo RJ" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="Entretenimento  ", TV Globo RJ
-
+#EXTINF:-1 tvg-id="ESPN" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSsYbkVfj9pKAGTZ-aZexuZILOv2_GlXpOGvM15bO720T7FNeAxz12-TC7&s=10.png"group-title="Esportes  ", ESPN
+http://infraz.top:80/3486527/8553692/311519.m3u8
 
 
 Sobre:"A TVExpress se destaca como uma plataforma acessível e de qualidade que oferece canais brasileiros e internacionais, legendados e dublados em português. Oferecemos uma variedade de canais e conteúdo completo, para que você possa aproveitar o melhor do futebol, séries, filmes e muito mais"

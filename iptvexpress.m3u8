@@ -1,16 +1,8 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/brazilpremium.xml"
-#EXTINF:-1 tvg-id="TVExpress" tvg-name="" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/samsung-tv-plus/SAMSUNG_TV_PLUS_PRIMARY_STACKED_LOGO_COLOURED_BLACK_RGB.png?$ORIGIN_PNG$.png"group-title="TVPlus | ", É streaming. É grátis. É seu.
-https://images.samsung.com/is/content/samsung/assets/br/tvs/smart-tv/samsung-tv-plus/2022/BRANDING_BRASIL_smaller.mp4
-#EXTINF:-1 tvg-id="Jogos do Dia" tvg-name="" tvg-logo="https://cdn-fjnlm.nitrocdn.com/ONnSJGWbzUzAbfhvnyFmtOUoUtuNFMOc/assets/images/optimized/rev-e0d5849/www.tvexpress.pro/wp-content/uploads/2024/05/menu-do-futebol.webp"group-title="Esportes  ", Jogos do Dia
+#EXTINF:-1 tvg-id="Jogos do Dia" tvg-name="" tvg-logo="https://cdn.prod.website-files.com/640b40225e0d945eb16904e1/640b40225e0d94b58269071d_icon-soccer2.svg"group-title="Esportes  ", Jogos do Dia
 http://hzcdn.vood.top/live/jogosdehoje/centralcaze/234252.m3u8
 #EXTINF:-1 tvg-id="CazeTV" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo-0.png"group-title="Esportes | ", CazeTV
 http://fzcdn.vood.top/live/cazetv/cazetvexpress/311744.m3u8
-#EXTINF:-1 tvg-id="TVExpress" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxc7aiI5UgyG0pMqQtUrtuq6_22s529imc00LXVbpxSOfrIj0Ksqmm0qI&s=10.png"group-title="TVExpress | ", TVExpress: Anime
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Bob Esponja: Calça Quadrada" tvg-name="" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/samsung-tv-plus/SAMSUNG_TV_PLUS_PRIMARY_STACKED_LOGO_COLOURED_BLACK_RGB.png"group-title="TVExpress | ", TVExpress: Bob Esponja
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Turma da Monica: TVExpress" tvg-name="" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBB4100010AM_20231101T012051SQUARE.png_20231101012052.png"group-title="TVExpress | ", Turma da Monica
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Futura" tvg-name="" tvg-logo="https://logospng.org/wp-content/uploads/futura.png"group-title="TV Aberta  ", Futura
 https://live-01.edge-vivo-do-go.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12aXZvLWRvLWdvLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxOTI1NzQ2NSwiaWF0IjoxNzE5MTcxMDY1LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjY3ZmNhMWZiLTE1N2EtNDhlNi04MTY0LTlhZmEwYzI5MDYyMyIsInBhdGgiOiIvbnUvZihhPWF1ZGlvXzEsYk1pbj0yMDAwLGhscz0zLHY9dmlkZW8pL2Z1dHVyYTI0aGEvcGxheWxpc3QubTN1OCJ9.bl4KCDQmkLVBWlwogGjEh46rAazWAroujytMUYURfEqY9DSiGpQgupFCOCTD03qkyLv-Y8_EX3oI_buo-g0hRXmD1Ju1z_5Popv_0KkFPKVCUBXKypOoSezEMZYO6aVihJXzMt9cO8fzn1yAVsBYqWlUBWwuG86KAvTjl0uyzSfCANuEwZFYVOFzp-ITfIVrEvHd-lThDEfuQNhWhnxwGvOBQjN-45KnRp8fdggOGLd4fUtiyQWKEaqNl4BtSnepJ96pA5mZBbh1Pf6iV4aAv07scAF2Mu8M1nxiDMpqqLU7ZRIudhGrmdWkx_qboK7jvvvzFb7sqssZpMe7RfbikQ/nu/f(a=audio_1,bMin=2000,hls=3,v=video)/futura24ha/futura24ha-audio_1=96000-video=3442944.m3u8
 #EXTINF:-1 tvg-id="TV Zyn" tvg-name="" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBD11000017I_20240228T040216SQUARE.png_20240228040216.png"group-title="Infantil | ", TV Zyn
@@ -33,7 +25,7 @@ https://aovivo.maissbt.com/index.m3u8?content_channel_id=12&content_livestream=1
 #EXTINF:-1 tvg-id="Star Channel" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png"group-title="Star Channel | Star Channel",Star Channel
 http://czcdn.vood.top/live/starplus/tvexpress/598.m3u8
 #EXTINF:-1 tvg-id="SporTV 4K" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png"group-title="Esportes | Sportv ",SporTV
-http://infraz.top:80/3486527/8553692/311503.m3u8
+http://infraz.top:80/145019/key5f0e5x0L/311503.m3u8
 #EXTINF:-1 tvg-id="Gloob FHD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/2560px-Gloob_logo.svg.png"group-title="Infantil | Gloob FHD",Gloob
 http://fzcdn.vood.top/live/canaisglobosat/gloob/380.m3u8
 #EXTINF:-1 tvg-id="CNN Brasil" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png"group-title="Notícias | CNN Brasil",CNN Brasil 

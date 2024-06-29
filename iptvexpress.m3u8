@@ -95,9 +95,10 @@ http://hzcdn.vood.top/live/bisglobo/tvexpress/2464.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png"group-title="Esportes  ", ESPN
 http://infraz.top:80/3486527/8553692/311519.m3u8
 
-#EXTINF:-1 tvg-id="TV Globo RJ" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest?cb=20220201030422.png"group-title="TV Aberta  ", TV Globo RJ
+#EXTINF:-1 tvg-id="TV Globo RJ" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="TV Aberta  ", TV Globo RJ
 http://infraz.top:80/3486527/8553692/2071.m3u8
-
+#EXTINF:-1 tvg-id="TV Globo SP" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="TV Aberta  ", TV Globo SP
+https://live-mir-ma-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtbWlyLW1hLTAyLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxOTcwMjg0OCwiaWF0IjoxNzE5NjE2NDQ4LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjY3ZmNhMWZiLTE1N2EtNDhlNi04MTY0LTlhZmEwYzI5MDYyMyIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL2dsb2JvLXRlci9wbGF5bGlzdC5tM3U4In0.IC4IGo3I4UKKspu8BGSOeRn6hQs14SQEZa0RYeVJ23LmFEtWfNv4f4sHVXc8a5eZ_DmKP1P4yvfsPj4QaIilBpBhwdR7ulew19iGacLkIsi-w2trzu7S82kN-PC1gNgg6gCjeCI8YlQSOswDiw6ql8ziDr9e7Guq_uiT5HbwEQHGGRh3_ZtlXZSEiZY5IXsznDHIBog4L5kpQF9OS49nEcAxmk5i0WctagqQ9jO3YlxKCh5sHqiaV7BhLam22_pfZheIp3aZHtzTOSBoeZJq3SIogHta0F_IU2Wk6ZHtMlPPbaXZNbXem6NdepU5tNyh_wkvyySnOGKY_Z7J6Fnj5Q/nu/f(bMin=2000)/globo-ter/globo-ter-audio_1=96000-video=2262976.m3u8
 
 
 

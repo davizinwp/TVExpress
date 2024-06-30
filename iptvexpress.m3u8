@@ -24,7 +24,7 @@ http://gzcdn.vood.top/live/tvcultura/tvexpress/148.m3u8
 https://aovivo.maissbt.com/index.m3u8?content_channel_id=12&content_livestream=1
 #EXTINF:-1 tvg-id="Star Channel" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png"group-title="Star Channel | Star Channel",Star Channel
 http://czcdn.vood.top/live/starplus/tvexpress/598.m3u8
-#EXTINF:-1 tvg-id="SporTV 4K" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png"group-title="Esportes | Sportv ",SporTV
+#EXTINF:-1 tvg-id="SporTV 4K" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png"group-title="Esportes | Sportv ",Sportv
 http://infraz.top:80/145019/key5f0e5x0L/311503.m3u8
 #EXTINF:-1 tvg-id="Gloob FHD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/2560px-Gloob_logo.svg.png"group-title="Infantil | Gloob FHD",Gloob
 http://fzcdn.vood.top/live/canaisglobosat/gloob/380.m3u8
@@ -96,7 +96,7 @@ http://hzcdn.vood.top/live/bisglobo/tvexpress/2464.m3u8
 http://infraz.top:80/3486527/8553692/311519.m3u8
 
 #EXTINF:-1 tvg-id="TV Globo RJ" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="TV Aberta  ", TV Globo RJ
-http://infraz.top:80/3486527/8553692/2071.m3u8
+https://live-as-08-17.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDgtMTcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE5Nzg5MDIyLCJpYXQiOjE3MTk3MDI2MjIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNjdmY2ExZmItMTU3YS00OGU2LTgxNjQtOWFmYTBjMjkwNjIzIiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwKS9nbG9iby1yai9wbGF5bGlzdC5tM3U4In0.aHJMgaZDXKA-6UVg15V1KhD11x6z3roHzS_XmR-9Vxv2ybbO37Tt1AH3oNgNW9r14Z6x1tnk63QAUxm2u9tENNWHucgDNnx7Q0VG6bRyrC76H_idkKiN9jnp1nMA5YUiRWoc6XKZatrVd5AaywiynJ_A-K-1tjc6EHe5IVtAe1kJVl2uhCcR1qTLzEgDajhnyrh8lkGWJ1iiWVGNpzrWiM6wdbMUOZQR1GXccZaBRFCE0-H4-Ds17F60wOI4Dsa8RXzTWXnIxnOrruhqhnXvSvvHs9KpU8XQyq3iF4wCVbNLzSygS5FMYXNUt1JgL8hkvs4EaiiWBgFtuOIj-D7dEg/nu/f(bMin=2000,dvr=120)/globo-rj/globo-rj-audio_1=128000-video=3632000.m3u8?
 #EXTINF:-1 tvg-id="TV Globo SP" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="TV Aberta  ", TV Globo SP
 https://live-mir-ma-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtbWlyLW1hLTAyLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxOTcwMjg0OCwiaWF0IjoxNzE5NjE2NDQ4LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjY3ZmNhMWZiLTE1N2EtNDhlNi04MTY0LTlhZmEwYzI5MDYyMyIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL2dsb2JvLXRlci9wbGF5bGlzdC5tM3U4In0.IC4IGo3I4UKKspu8BGSOeRn6hQs14SQEZa0RYeVJ23LmFEtWfNv4f4sHVXc8a5eZ_DmKP1P4yvfsPj4QaIilBpBhwdR7ulew19iGacLkIsi-w2trzu7S82kN-PC1gNgg6gCjeCI8YlQSOswDiw6ql8ziDr9e7Guq_uiT5HbwEQHGGRh3_ZtlXZSEiZY5IXsznDHIBog4L5kpQF9OS49nEcAxmk5i0WctagqQ9jO3YlxKCh5sHqiaV7BhLam22_pfZheIp3aZHtzTOSBoeZJq3SIogHta0F_IU2Wk6ZHtMlPPbaXZNbXem6NdepU5tNyh_wkvyySnOGKY_Z7J6Fnj5Q/nu/f(bMin=2000)/globo-ter/globo-ter-audio_1=96000-video=2262976.m3u8
 
